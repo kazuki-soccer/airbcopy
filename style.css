@@ -1,0 +1,468 @@
+h1,h2,h3,ul,li {
+  margin: 0px;
+  padding: 0px;
+  font-weight: normal;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  min-width: 1024px;
+}
+
+
+@media (max-width: 768px) {
+
+
+  }
+
+@media (max-width: 576px) {
+.list:not(:root) {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+}
+
+.top-wrapper {
+}
+
+.ul {
+}
+
+.frt:not(:root){
+  display:block;
+}
+
+.snd-wrapper:not(:root) {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+}
+.supportsss:not(:root) {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+}
+
+.twentyfoursss {
+  display: block;
+}
+
+.listtt:not(:root)  {
+float: none;
+width: auto;
+margin-bottom: 50px;
+}
+
+.li {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+}
+
+.u {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+  display: block;
+
+}
+
+.li {
+  float: none;
+  width: auto;
+  margin-bottom: 50px;
+}
+  }
+
+
+.container:not(:root) {
+  width: 93%;
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  max-height: 100%;
+}
+
+.header {
+  background-image: url(top.png);
+  height: 700px;
+  background-size: cover;
+  color: white;
+  margin-bottom: 70px;
+}
+
+
+.logo {
+  height: 95px;
+  position: relative;
+}
+
+
+.logos {
+  height: 40px;
+  position: absolute;
+  top: 20px;
+  left: 25px;
+}
+
+.beahost {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 26px;
+}
+
+.room {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
+
+.room span {
+  color: #FF385C;
+}
+
+.fill {
+  background-color: none;
+}
+
+.starts {
+  text-align: center;
+}
+.start {
+  display: block;
+  text-decoration: none;
+  color: white;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 600;
+  background-color: #E51E51;
+  width: 135px;
+  border-radius: 10px;
+  height: 55px;
+  padding: 17px 30px;
+}
+
+.calc {
+  display: block;
+  color: white;
+}
+
+.top-wrapper {
+  margin-bottom: 100px;
+  height: 600px;
+  border-bottom: 1px solid grey;
+}
+
+.htwo {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  font-size: 42px;
+  line-height: 42px;
+  color: #222;
+  font-weight: 800;
+  margin-bottom: 35px;
+}
+
+.con {
+  width: 90%;
+  margin-top: 30px;
+}
+
+.hthree {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 30px;
+  color: #333;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+
+.ul {
+  margin-left: -30px;
+}
+
+.list {
+  float: left;
+  width: 25%;
+  list-style: none;
+  padding-right: 40px;
+}
+
+.d {
+}
+
+img {
+  max-width: 100%;
+}
+
+.illust {
+  height: 180px;
+  border-radius: 5px;
+  width: 100%;
+  border-bottom: 30px;
+}
+
+.details {
+  color: black;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;;
+}
+
+
+
+
+
+
+.snd-wrapper {
+  margin-bottom: 150px;
+  height: 550px;
+}
+
+
+.supportsss {
+flex: auto;
+width: 35%;
+}
+.twentyfoursss {
+  flex: auto;
+  width: 65%;
+}
+
+.ulll {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.listt {
+ list-style: none;
+ display: inline-block;
+ width: 50%;
+
+}
+
+.snd-img {
+  background-size: cover;
+  height: 400px;
+  width: 330px;
+  border-radius: 10px;
+}
+
+.uno {
+  background-image: url(man.jpg);
+}
+.dos {
+  background-image: url(couple.jpg);
+}
+.tres {
+  background-image: url(japan.jpg);
+}
+.quatro {
+  background-image: url(women.jpg);
+}
+.cinco {
+  background-image: url(women2.jpg);
+}
+
+
+
+
+.thr-wrapper {
+  height: 600px;
+  margin-bottom: 100px;
+}
+
+.u {
+  margin-left: -30px;
+  display: flex;
+
+}
+
+.li {
+  flex: auto;
+  float: left;
+  width: 25%;
+  list-style: none;
+  padding-right: 70px;
+
+}
+
+.illustr {
+  height: 60px;
+  border-radius: 5px;
+  width: 20%;
+  margin-bottom: 30px;
+}
+
+
+.frt-wrapper {
+  height: 600px;
+  margin-bottom: 100px;
+
+}
+
+.frt {
+  display: flex;
+}
+
+.support {
+  flex: auto;
+  width: 50%;
+}
+
+.twentyfour {
+  flex: auto;
+  width: 50%;
+}
+
+.illustra {
+  height: 30px;
+  border-radius: 5px;
+  width: 5%;
+  margin-bottom: 70px;
+  float: left;
+  margin-right: 12px;
+}
+
+.lis {
+  list-style: none;
+  margin-bottom: 50px;
+}
+
+
+.fif-wrapper {
+  background-image: url(header.jpg);
+  height: 530px;
+  background-size: cover;
+  color: white;
+  margin-bottom: 70px;
+}
+
+.fift:not(:root) {
+  padding-top: 150px;
+}
+
+.fif {
+  color: white;
+}
+
+
+.rooms {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;;
+}
+
+
+.six-wrapper {
+  border-bottom: 1px solid grey;
+  padding-bottom: 50px;
+}
+.one {
+  color: black;
+}
+
+.supports {
+  flex: auto;
+  width: 50%;
+  padding-right: 20px;
+}
+
+.twentyfours {
+  flex: auto;
+  width: 50%;
+}
+
+.forms {
+  margin-left: 50px;
+}
+
+.mail {
+  display: block;
+  background-color: white;
+  width: 360px;
+  height: 40px;
+
+}
+
+.phone {
+  display: block;
+  background-color: white;
+  width: 360px;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.radio {
+  background-color: white;
+  height: 60px;
+  float: left; 
+}
+
+.ss {
+  background-color: black;
+  display: block;
+  margin: 20px 0;
+}
+
+.aaa {
+  color: black;
+}
+
+.btm-wrapper {
+  padding: 30px 0;
+  height: 530px;
+  border-bottom: 1px solid grey;
+}
+.btm-a {
+  display: block;
+  color: black;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+
+.footer {
+  height: 120px;
+  padding-top: 30px;
+}
+
+.global {
+  display: block;
+  text-decoration: none;
+  color: #000;
+}
+.copy {
+  float: left;
+}
+
+.supportss {
+  flex: auto;
+  width: 60%;
+}
+
+.twentyfourss {
+  flex: auto;
+  width: 40%;
+}
+
+.last {
+  width: 20px;
+  margin-left: 20px;
+}
+
+.lasts {
+  margin-left: 25px;
+  text-decoration: none;
+  color: #000;
+}
+
+.l {
+  margin-left: 50px;
+}
